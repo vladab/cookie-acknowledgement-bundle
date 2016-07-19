@@ -1,6 +1,6 @@
 {
-    "name": "xsolve-pl/xsolve-cookie-acknowledgement-bundle",
-    "description": "XSolve Cookie Acknowledgement Bundle to handle new privacy law",
+    "name": "vladab/cookie-acknowledgement-bundle",
+    "description": "Cookie Acknowledgement Bundle to handle new privacy law",
     "license": "MIT",
     "autoload": {
         "psr-0": { "Xsolve\\CookieAcknowledgementBundle": "" }
